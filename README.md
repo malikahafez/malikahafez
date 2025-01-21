@@ -20,11 +20,11 @@ I am interested in video game development, visual effects and computer graphics,
 
 I have worked on numerous coding projects throughout my Computer Science and Digital Media courses in University
 
-**Coding Languages:** Java, C++, MSSQL, Python, C, C#, Haskell, Prolog, JavaScript, XHTML, HTML
+**Coding Languages:** Java, C++, MSSQL, Python, C, C#, Haskell, Prolog, JavaScript, EJS, XHTML, HTML
 
 **Libraries:** OpenGL, OpenAL, JavaFX, NodeJS, MongoDB, ASP.NET, NumPy, Matplotlib, Sounddevice
 
-**Coding Software:** Eclipse IDE, Microsoft Visual Studio, Microsoft VScode, Unity, WinHugs, SWI Prolog, ORCAD PSpice 
+**Coding Software:** Eclipse IDE, Microsoft Visual Studio, MongoDB, Microsoft VScode, Unity, WinHugs, SWI Prolog, ORCAD PSpice 
 
 
 
