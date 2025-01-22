@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am a Digital Media Engineering and Technology Student
 
-I am interested in video game development and design, visual effects and computer graphics, graphic design, sound design, and creative coding projects
+I am interested in video game development and design, visual effects and computer graphics, animation, graphic design, sound design, music composition and production, and creative coding projects
 
 I have worked on numerous coding projects throughout my Computer Science and Digital Media courses in University
 
