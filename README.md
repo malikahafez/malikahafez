@@ -24,7 +24,7 @@ I have worked on numerous coding projects throughout my Computer Science and Dig
 
 **Libraries:** OpenGL, OpenAL, JavaFX, NodeJS, MongoDB, ASP.NET, NumPy, Matplotlib, Sounddevice
 
-**Coding Software:** Eclipse IDE, Microsoft Visual Studio, MongoDB, Microsoft VScode, Unity, WinHugs, SWI Prolog, ORCAD PSpice 
+**Software:** Eclipse IDE, Microsoft Visual Studio, MongoDB, Microsoft VScode, Unity, WinHugs, SWI Prolog, JCreator, ORCAD PSpice 
 
 
 
