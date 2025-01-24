@@ -24,7 +24,7 @@ I have worked on numerous coding projects throughout my Computer Science and Dig
 
 **Libraries:** OpenGL, OpenAL, JavaFX, NodeJS, MongoDB, ASP.NET, NumPy, Matplotlib, Sounddevice
 
-**Software:** Eclipse, Microsoft Visual Studio, Microsoft VScode, ModelSim, Quartus Prime, Unity, WinHugs, SWI Prolog, JCreator, ORCAD PSpice 
+**Coding and Circuit Software:** Eclipse, Microsoft Visual Studio, Microsoft VScode, ModelSim, Quartus Prime, Unity, WinHugs, SWI Prolog, JCreator, Spyder, Anaconda, ORCAD PSpice 
 
 
 
